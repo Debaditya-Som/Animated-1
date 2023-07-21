@@ -39,7 +39,7 @@ section{
     max-width:35ch;
     border-radius: 2rem;
     overflow:hidden;
-
+    height:420px;
     transition: transform 500ms ease;
 }
 
